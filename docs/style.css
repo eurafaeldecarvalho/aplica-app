@@ -123,6 +123,7 @@ h1, h2, h3 { margin: 0; font-weight: 600; letter-spacing: -0.035em; text-wrap: b
 .foot-links { display: flex; gap: 24px; }
 .foot-links a { color: var(--ink); text-decoration: none; }
 .foot-links a:hover { color: var(--accent); }
+.foot span:last-child img { max-width: 100%; height: auto; margin-top: 10px; vertical-align: middle; }
 
 /* entrances */
 .rise { opacity: 0; transform: translateY(22px); transition: opacity .8s var(--ease), transform .8s var(--ease); }
