@@ -6,6 +6,7 @@
 [![Claude Code plugin](https://img.shields.io/badge/Claude%20Code-plugin-5A3FFF.svg)](https://claude.com/claude-code)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
+[![As seen on Open Source Alternatives](https://www.opensourcealternatives.to/badge-osa.svg)](https://www.opensourcealternatives.to)
 
 Aplica is a Claude Code plugin that runs your job hunt the way you would: it scans public job APIs, scores each role against **your** target profile, opens the good ones in **your own logged-in Chrome**, fills the forms with **your** real data, and applies — one application per role, deduplicated, at a human pace. Everything is customizable, and nothing about any other person is baked in: you provide the profile, the target, and the toggles.
 
